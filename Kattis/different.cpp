@@ -1,4 +1,4 @@
-//URL: 
+//URL: https://open.kattis.com/problems/different
 
 #include <iostream>
 
